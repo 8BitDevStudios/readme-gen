@@ -1,14 +1,14 @@
 # README Generator
 
-A Python CLI tool to generate professional `README.md` files and optional MIT LICENSE files. Customize sections, include GitHub badges, and choose output paths—all from the terminal.
+A Python CLI tool to generate professional `README.md` files and optional MIT LICENSE files.
 
 
 ## Features
 
-- Fully terminal-based, simple and intuitive
-- Customizable sections: Description, Installation, Usage, Features, Contributing, Author, Website, License
-- Optional MIT LICENSE file generation with author name and current year
-- GitHub integration: automatically adds license badge and project link
+- Fully terminal based
+- Customizable readme
+- Optional mit license
+- GitHub integrations: license badge and project link
 - Works with Python 3.6+, no external dependencies
 
 
