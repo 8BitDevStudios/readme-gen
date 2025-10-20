@@ -2,7 +2,6 @@
 
 A Python CLI tool to generate professional `README.md` files and optional MIT LICENSE files. Customize sections, include GitHub badges, and choose output paths—all from the terminal.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ A Python CLI tool to generate professional `README.md` files and optional MIT LI
 - GitHub integration: automatically adds license badge and project link
 - Works with Python 3.6+, no external dependencies
 
----
 
 ## Installation
 
