@@ -9,7 +9,7 @@ A Python CLI tool to generate professional `README.md` files and optional MIT LI
 - Customizable readme
 - Optional mit license
 - GitHub integrations: license badge and project link
-- Works with Python 3.6+, no external dependencies
+- Works with Python 3.6+ no external dependencies
 
 
 ## Installation
