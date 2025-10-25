@@ -1,6 +1,6 @@
 # README Generator
 
-A Python CLI tool to generate professional `README.md` files and optional MIT LICENSE files.
+Python tool that generates `README.md` files and optional MIT LICENSE.
 
 
 ## Features
