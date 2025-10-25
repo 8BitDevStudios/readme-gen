@@ -1,6 +1,6 @@
 # README Generator
 
-Python tool that generates `README.md` files and optional MIT LICENSE.
+A Python tool that generates README.md files and optional MIT LICENSE.
 
 
 ## Features
