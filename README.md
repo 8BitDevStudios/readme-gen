@@ -8,7 +8,7 @@ A Python tool that generates README.md files and optional MIT LICENSE.
 - Fully terminal based
 - Customizable readme
 - Optional mit license
-- GitHub integrations: license badge and project link
+- GitHub integrations: license and project link
 - Works with Python 3.6+ no external dependencies
 
 
