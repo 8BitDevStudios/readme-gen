@@ -74,7 +74,7 @@ def open_output_folder():
             subprocess.Popen(["xdg-open", folder_path])
     except Exception as e:
         print(f"Could not open folder automatically: {e}")
-        print(f"Please open the folder manually at: {folder_path}")
+        print(f"Please open the folder manually: {folder_path}")
 
 def input_non_empty(prompt):
     while True:
@@ -99,4 +99,5 @@ def main():
     open_output_folder()
 
 if __name__ == "__main__":
+
     main()
